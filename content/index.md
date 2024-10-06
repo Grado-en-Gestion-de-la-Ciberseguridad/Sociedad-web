@@ -5,35 +5,45 @@ tags:
 cssclasses:
   - hbox
 ---
-![[99. Obsidian/01. Inserts/image.webp]]
+# Bienvenida a la Sociedad de Ciberseguridad  
+### Universidad Francisco de Vitoria
 
 ---
-# ¡Bienvenido a la Página de Apuntes en Línea!
 
-Esta página es la **versión online** de los apuntes del repositorio [Grado en Gestión de la Ciberseguridad - 1º Ciberseguridad](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad). Aquí podrás consultar los apuntes de manera rápida y accesible desde cualquier lugar.
+## ¡Bienvenidos a la nueva era de la seguridad digital!
 
-### Importante:
-Es posible que la información en esta página **no esté completamente actualizada** en comparación con el repositorio original. Esto puede suceder porque los apuntes en el repositorio de GitHub se actualizan continuamente con nuevas notas, correcciones o mejoras.
+¿Interesado en el mundo de la ciberseguridad? ¡Este es tu lugar! La **Sociedad de Ciberseguridad de la Universidad Francisco de Vitoria** está dedicada a explorar, aprender y compartir conocimientos sobre las amenazas, desafíos y soluciones en el ciberespacio.
 
-### Si deseas la versión más actualizada de los apuntes:
-Te recomendamos visitar directamente el repositorio en GitHub, donde podrás acceder a la versión más reciente de todos los documentos y realizar un seguimiento de los cambios y actualizaciones:  
-[Repositorio original en GitHub](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad).
+### ¿Quiénes somos?
 
-### Cómo contribuir:
-Si detectas algún error o tienes sugerencias para mejorar los apuntes, eres bienvenido a colaborar directamente en el [repositorio original](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad).
+Somos una comunidad de estudiantes apasionados por la tecnología, la seguridad informática y la protección de la información. Aquí, tanto novatos como expertos tienen la oportunidad de aprender y contribuir al creciente campo de la ciberseguridad.
+
+### ¿Qué ofrecemos?
+
+- **Charlas y conferencias** con expertos de la industria.
+- **Talleres prácticos** de hacking ético, criptografía, análisis forense y mucho más.
+- **Competiciones CTF (Capture The Flag)** y simulacros de incidentes de seguridad.
+- **Colaboración en proyectos reales**, desde la creación de software seguro hasta la protección de redes.
+- **Acceso a una red de contactos** en el ámbito de la ciberseguridad.
+
+### ¿Por qué unirte?
+
+- Obtendrás **conocimientos prácticos** que te diferenciarán en el mercado laboral.
+- Tendrás la oportunidad de **trabajar con tecnologías de vanguardia** y conocer las amenazas cibernéticas más recientes.
+- Serás parte de una **comunidad activa y colaborativa** que comparte tus intereses.
+
+### ¡Únete a nosotros!
+No importa si eres estudiante de primer año o un profesional experimentado. Si tienes interés en proteger el futuro digital, te invitamos a formar parte de nuestra sociedad. ¡Tu aventura en ciberseguridad comienza aquí!
 
 ---
----
-# 📢Alertas
-### 📢 Anuncio Importante: Organización en GitHub para Colaboradores
-  He creado una organización en GitHub con el propósito de compartir recursos y notas. Esta organización se ha creado para que nadie tenga control exclusivo sobre las notas, y todos los colaboradores puedan contribuir equitativamente. 
-  
-  🔐 ¿Cómo participar? Para unirte, envíame un mensaje directo (@rafa181_) con tu nombre de usuario de GitHub y una breve descripción de tu base de conocimientos, para asignar los roles apropiadamente. Recuerda: solo aquellos que colaboren activamente tendrán acceso completo a las notas y al contenido compartido, el cual incluye material que otros han pagado y compartido aquí. Si no colaboras, tu acceso será limitado. 
+
+### Contacto:
+
+- Correo: 
+- Discord: 
+- GitHub: [Grado en Gestion de la Ciberseguridad (github.com)](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad)
+- Redes Sociales: 
 
 ---
-###  📢 Actualización   
-Para Nuevos Colaboradores Entendemos que para aquellos que son nuevos en el campo de la ciberseguridad, puede ser complicado compartir muchos recursos al principio. ¡Y eso está bien! Lo importante es que participes y aprendas en el proceso. Sin embargo, debes tener en cuenta que el contenido pago al que hacemos referencia es de un nivel avanzado. Incluye notas y recursos para certificaciones como OSCP, CompTIA, y los cursos de ciberseguridad de CISCO. Este material está diseñado para gente con experiencia, por lo que puede estar muy por encima del nivel de quienes recién comienzan. Si estás aquí para aprender, contribuye en lo que puedas y verás cómo tu conocimiento crece. Con el tiempo, serás capaz de compartir contenido más avanzado y obtener acceso completo a estos valiosos recursos. 
 
----
-### 📢 **Solicitud de Ayuda: Revisores de Commits y Gestión de la Organización**
-Estamos buscando colaboradores con experiencia en **GitHub** para ayudar a gestionar la organización y actuar como **revisores de Commits**. Si tienes buen manejo de GitHub y deseas contribuir de forma más activa en la administración, ¡esta es tu oportunidad! Voy a revisar los perfiles de GitHub de quienes estén interesados para evaluar el nivel de conocimiento aparente y asignar roles según corresponda. Si estás dispuesto a colaborar en la gestión, por favor, envíame un mensaje directo (@me) con tu GitHub y cualquier información relevante sobre tu experiencia. Tu apoyo será clave para mantener la calidad y eficiencia de nuestra organización.
+Siéntete libre de personalizar los detalles de contacto o agregar alguna sección adicional que creas importante para la página.>)
