@@ -2,7 +2,7 @@ import os
 import urllib.parse  # For encoding spaces in URLs
 
 # GitHub repository URL (replace with your actual GitHub repository URL)
-GITHUB_REPO_URL = "https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad-web/tree/v4/content"  # Modify this URL
+GITHUB_REPO_URL = "https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/Sociedad-web/tree/v4/content"  # Modify this URL
 
 # Function to create an Obsidian-style link for .md and .pdf files, including the file extension
 def create_obsidian_link(file_name, directory, base_directory):
